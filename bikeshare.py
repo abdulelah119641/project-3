@@ -76,6 +76,8 @@ def load_data(city, month, day):
         
         if day != "all": 
            # now we will filter it 
+
+           # thuis time of change the file for the Q4 reguarding for the branch refactoring
             df = df[df['day_of_week'] == day.title()]
     
     return df
