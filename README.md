@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+the date crating the file at 29/1/2021
+
 
 ### Project Title
-Replace the Project Title
+improve our skiles in git and githup
 
 ### Description
-Describe what your project is about and what it does
+we are working on how to using the git and githup to move and add file into the githup and alse how to working with aouther frind on the sime time 
 
 ### Files used
-Include the files used
+we will useing the pythone file and alsoe some of file fo the data 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+ our lonk on the githup its: https://github.com/abdulelah119641/project-3
